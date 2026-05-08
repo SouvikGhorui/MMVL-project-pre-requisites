@@ -18,7 +18,7 @@ def Piecewise_transformation(img,r1,s1,r2,s2):
     new_img = np.clip(new_img,0,255).astype(np.uint8)
     
     return new_img
-img = cv2.imread('C:/Users/sghor/Desktop/Souvik/Programming/Image processing/Photos/low_contrast_img.png',0)
+img = cv2.imread('Photos/low_contrast_img.png',0)
 Trans_img = Piecewise_transformation(img, img.min(), 0, img.max(), 255)
 
 #show result 

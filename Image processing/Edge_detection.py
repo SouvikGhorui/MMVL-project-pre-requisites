@@ -1,7 +1,7 @@
 import cv2
 from skimage.filters import roberts, sobel, farid, scharr, prewitt
 
-image = cv2.imread(r"C:\Users\sghor\Desktop\Souvik\Programming\Image processing\Photos\photo_1.webp", 0)
+image = cv2.imread("Photos/photo_1.webp", 0)
 
 
 if image is None:
@@ -29,7 +29,7 @@ else:
 ###########################################################################
 import cv2
 
-image = cv2.imread(r"C:\Users\sghor\Desktop\Souvik\Programming\Image processing\Photos\photo_1.webp", 0)
+image = cv2.imread("Photos/photo_1.webp", 0)
 canny_edge = cv2.Canny(image,50,180)
 cv2.imshow("Canny edge delection",canny_edge)
 cv2.waitKey(0)

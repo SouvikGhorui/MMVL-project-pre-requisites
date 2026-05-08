@@ -1,5 +1,5 @@
 import cv2
-img = cv2.imread('C:/Users/sghor/Desktop/Souvik/Programming/Image processing/Photos/test_flower.jpg')
+img = cv2.imread('Photos/test_flower.jpg')
 
 scale_factor = 0.5
 w, h, c = img.shape

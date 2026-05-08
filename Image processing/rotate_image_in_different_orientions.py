@@ -1,6 +1,6 @@
 import cv2
 
-img = cv2.imread(r"C:\Users\sghor\Desktop\Souvik\Programming\Image processing\Photos\photo_1.webp")
+img = cv2.imread(r"Photos/photo_1.webp")
 
 cv2.imshow("Original",img)
 height, weight,_ =img.shape

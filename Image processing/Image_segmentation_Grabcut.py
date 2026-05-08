@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-img = cv2.imread('C:/Users/sghor/Desktop/Souvik/Programming/Image processing/Photos/test_flower.jpg')
+img = cv2.imread('Photos/test_flower.jpg')
 img = cv2.resize(img, (500,500))
 
 # define mask

@@ -1,8 +1,8 @@
 from skimage.metrics import structural_similarity as ssim
 import cv2
 
-img = cv2.imread('C:/Users/sghor/Desktop/Souvik/Programming/Image processing/Photos/photo.jpg',cv2.IMREAD_GRAYSCALE)
-img1 = cv2.imread('C:/Users/sghor/Desktop/Souvik/Programming/Image processing/Photos/photo_1.webp',cv2.IMREAD_GRAYSCALE)
+img = cv2.imread('Photos/photo.jpg',cv2.IMREAD_GRAYSCALE)
+img1 = cv2.imread('Photos/photo_1.webp',cv2.IMREAD_GRAYSCALE)
 height,weight =img.shape
 img1 = cv2.resize(img1,(weight, height))
 # findig difference score and difference image using ssim

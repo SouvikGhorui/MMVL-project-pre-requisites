@@ -1,7 +1,7 @@
 import cv2
 
 
-image = cv2.imread('C:/Users/sghor/Desktop/Souvik/Programming/Image processing/Photos/low_const.jpg',1)
+image = cv2.imread('Photos/low_const.jpg',1)
 
 # convert BGR to LAB 
 lab_img = cv2.cvtColor(image, cv2.COLOR_BGR2LAB)

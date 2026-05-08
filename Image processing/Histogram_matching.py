@@ -2,8 +2,8 @@ import cv2
 from skimage import exposure
 import matplotlib.pyplot as plt
 
-source = cv2.imread('C:/Users/sghor/Desktop/Souvik/Programming/Image processing/Photos/source.jpg')
-reference = cv2.imread('C:/Users/sghor/Desktop/Souvik/Programming/Image processing/Photos/reference.webp')
+source = cv2.imread('Photos/source.jpg')
+reference = cv2.imread('Photos/reference.webp')
 
 matched_img = exposure.match_histograms(source, reference, channel_axis = -1)
 

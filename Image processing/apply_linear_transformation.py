@@ -8,7 +8,7 @@ def ApplyLinearTrans(img, alpha, beta):
     Transformed_img = cv2.convertScaleAbs(img,None,alpha = alpha, beta = beta)
     return Transformed_img
 
-img = cv2.imread('C:/Users/sghor/Desktop/Souvik/Programming/Image processing/Photos/test_flower.jpg',0)
+img = cv2.imread('Photos/test_flower.jpg',0)
 img_trasformed = ApplyLinearTrans(img, 1.1, 40)
 plt.imshow(cv2.cvtColor(img,cv2.COLOR_BGR2RGB))
 plt.show()

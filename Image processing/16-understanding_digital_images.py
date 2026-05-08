@@ -3,7 +3,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 from skimage import img_as_float
 
-image = io.imread(r"C:\Users\sghor\Desktop\Souvik\Programming\Image processing\Photos\photo.jpg")
+image = io.imread("Photos/photo.jpg")
 #print(image)
 #plt.imshow(image)
 #print(image.max(),image.min())

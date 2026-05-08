@@ -2,7 +2,7 @@
 import cv2
 import matplotlib.pyplot as plt
 
-image = cv2.imread('C:/Users/sghor/Desktop/Souvik/Programming/Image processing/Photos/photo_1.webp',cv2.IMREAD_GRAYSCALE)
+image = cv2.imread('Photos/photo_1.webp',cv2.IMREAD_GRAYSCALE)
 
 # cv2.calcHist(images, channels, mask, histSize, ranges)
 # images: Source image (in brackets)
@@ -27,7 +27,7 @@ plt.show()
 ######
 # Histogram for coloured image
 
-image = cv2.imread('C:/Users/sghor/Desktop/Souvik/Programming/Image processing/Photos/photo_1.webp',cv2.IMREAD_COLOR_RGB)
+image = cv2.imread('Photos/photo_1.webp',cv2.IMREAD_COLOR_RGB)
 
 
 # display results

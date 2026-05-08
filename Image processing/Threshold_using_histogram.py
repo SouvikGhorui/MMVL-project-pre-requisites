@@ -1,7 +1,7 @@
 import cv2
 import matplotlib.pyplot as plt
 
-img = cv2.imread('C:/Users/sghor/Desktop/Souvik/Programming/Image processing/Photos/test_flower.jpg',0)
+img = cv2.imread('Photos/test_flower.jpg',0)
 hist_img = cv2.calcHist([img],[0] , None, [256], [0,255])
 
 # applying different threshold
@@ -26,7 +26,7 @@ plt.show()
 
 
 #################################################
-img = cv2.imread('C:/Users/sghor/Desktop/Souvik/Programming/Image processing/Photos/test_flower.jpg',0)
+img = cv2.imread('Photos/test_flower.jpg',0)
 hist_img = cv2.calcHist([img],[0] , None, [256], [0,255])
 
 # applying different threshold
@@ -49,7 +49,7 @@ plt.show()
 
 
 ####################################################
-img = cv2.imread('C:/Users/sghor/Desktop/Souvik/Programming/Image processing/Photos/test_flower.jpg',0)
+img = cv2.imread('Photos/test_flower.jpg',0)
 hist_img = cv2.calcHist([img],[0] , None, [256], [0,255])
 
 # applying different threshold
@@ -72,7 +72,7 @@ plt.show()
 
 ##########################################################
 
-img = cv2.imread('C:/Users/sghor/Desktop/Souvik/Programming/Image processing/Photos/test_flower.jpg',0)
+img = cv2.imread('Photos/test_flower.jpg',0)
 hist_img = cv2.calcHist([img],[0] , None, [256], [0,255])
 
 # applying different threshold
@@ -94,7 +94,7 @@ plt.show()
 
 ########################################################
 
-img = cv2.imread('C:/Users/sghor/Desktop/Souvik/Programming/Image processing/Photos/test_flower.jpg',0)
+img = cv2.imread('Photos/test_flower.jpg',0)
 hist_img = cv2.calcHist([img],[0] , None, [256], [0,255])
 
 # applying different threshold
@@ -115,7 +115,7 @@ plt.plot(hist_thresh_img), plt.title('Threshold histogram')
 plt.show()
 
 #########################################################
-img = cv2.imread('C:/Users/sghor/Desktop/Souvik/Programming/Image processing/Photos/test_flower.jpg',0)
+img = cv2.imread('Photos/test_flower.jpg',0)
 hist_img = cv2.calcHist([img],[0] , None, [256], [0,255])
 
 # applying different threshold
@@ -136,7 +136,7 @@ plt.plot(hist_thresh_img), plt.title('Threshold histogram')
 plt.show()
 
 #############################################################
-img = cv2.imread('C:/Users/sghor/Desktop/Souvik/Programming/Image processing/Photos/test_flower.jpg',0)
+img = cv2.imread('Photos/test_flower.jpg',0)
 hist_img = cv2.calcHist([img],[0] , None, [256], [0,255])
 
 # applying different threshold

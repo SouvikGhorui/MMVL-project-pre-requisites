@@ -12,7 +12,7 @@ def salt_and_paper(img,noise_size):
         else:
             img_copy[x,y]=255
     return img_copy
-img = cv2.imread('C:/Users/sghor/Desktop/Souvik/Programming/Image processing/Photos/test_flower.jpg',0)
+img = cv2.imread('Photos/test_flower.jpg',0)
 
 noise_img = salt_and_paper(img,5000)
 denoise_img = cv2.medianBlur(noise_img, 3)
@@ -62,7 +62,7 @@ def add_spectral_noise(img):
     noise_img = np.clip(noise_img, 0, 255)
     return noise_img.astype(np.uint8)
 
-img = cv2.imread('C:/Users/sghor/Desktop/Souvik/Programming/Image processing/Photos/test_flower.jpg',0)
+img = cv2.imread('Photos/test_flower.jpg',0)
 spectral_noise_img = add_spectral_noise(img)
 
 # removing noise 

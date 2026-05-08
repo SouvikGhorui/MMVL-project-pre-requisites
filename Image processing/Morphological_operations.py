@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-img = cv2.imread('C:/Users/sghor/Desktop/Souvik/Programming/Image processing/Photos/Noisy_img.jpg',0)
+img = cv2.imread('Photos/Noisy_img.jpg',0)
 
 kernel = np.ones((3,3),np.uint8)
 _,img_binary = cv2.threshold(img, 127, 255, cv2.THRESH_BINARY)

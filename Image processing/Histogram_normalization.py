@@ -1,7 +1,7 @@
 import cv2
 import matplotlib.pyplot as plt
 
-img = cv2.imread('C:/Users/sghor/Desktop/Souvik/Programming/Image processing/Photos/low_contrast_img.png')
+img = cv2.imread('Photos/low_contrast_img.png')
 
 # applying min- max normalization and converting to RGB
 normalized_img =cv2.normalize(img, None,alpha = 0,beta = 255, norm_type = cv2.NORM_MINMAX)

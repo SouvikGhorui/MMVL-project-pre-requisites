@@ -6,7 +6,7 @@ def gamma_correction(img,gamma):
     return cv2.LUT(img,table)
 
     
-img = cv2.imread('C:/Users/sghor/Desktop/Souvik/Programming/Image processing/Photos/low_contrast_img.png',0)
+img = cv2.imread('Photos/low_contrast_img.png',0)
 corrected_img = gamma_correction(img, 2.20)
 
 #showing result 

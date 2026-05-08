@@ -2,7 +2,7 @@ import cv2
 import matplotlib.pyplot as plt
 
 # Load the image in grayscale
-image = cv2.imread(r"C:\Users\sghor\Desktop\Souvik\Programming\Image processing\Photos\photo.jpg", cv2.IMREAD_GRAYSCALE)
+image = cv2.imread(r"../Photos/photo.jpg", cv2.IMREAD_GRAYSCALE)
 
 if image is None:
     print("Error: Image not found!")

@@ -2,7 +2,7 @@ import cv2
 from matplotlib import pyplot as plt
 
 
-image = cv2.imread('C:/Users/sghor/Desktop/Souvik/Programming/Image processing/Photos/photo.jpg')
+image = cv2.imread('Photos/photo.jpg')
 image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
 # to remove noise, we use gaussian blur method

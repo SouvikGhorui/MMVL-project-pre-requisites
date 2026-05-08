@@ -1,6 +1,6 @@
 import cv2
 
-img = cv2.imread('C:/Users/sghor/Desktop/Souvik/Programming/Image processing/Photos/photo_1.webp')
+img = cv2.imread('Photos/photo_1.webp')
 w, h, c = img.shape
 
 scale_factor= 2
