@@ -35,12 +35,12 @@ Implementation of classical ML algorithms from scratch and using libraries.
 - [ ] **3.2 Minimum Distance Classifier**
 - [x] **3.3 - 3.5 Regression (Linear, Multiple, Logistic)** (`linear_regression.ipynb`, `MultipleLinearRegression.ipynb`, `Logistic_regression.ipynb`)
 - [ ] **3.6 SVM**
-- [x] **3.7 Random Forest** (`RandomForest.ipynb`)
+- [x] **3.7 Random Forest & Decision Tree** (`RandomForest.ipynb`, `decision_tree.ipynb`)
 - [x] **3.8 Bag of Words** (`BagofWords.ipynb`)
 - [x] **3.10 PCA** (`PCA.ipynb`, `Dimensionality Reduction & Feature Extraction.ipynb`)
 - [x] **3.11 - 3.14 Clustering (K-means, K-medoid, Hierarchical, DBScan)** (Various `.ipynb` files)
 - [x] **3.15 HOG Feature Extraction** (`HOG.ipynb`)
-- [ ] **3.15 LBP (Local Binary Patterns)**
+- [x] **3.15 LBP (Local Binary Patterns)** (`LBP.ipynb`)
 - [ ] **Mini Project: MNIST** (Augmentation, PCA, HOG, Logistic Regression)
 
 ### 3. Deep Learning (Future Goals) 🚀
