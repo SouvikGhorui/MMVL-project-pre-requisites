@@ -49,16 +49,34 @@ Implementations using **TensorFlow** and **PyTorch**.
 
 - [x] **4.0 TensorFlow Basics** (`Deep learning/tersorflow.ipynb`)
 - [x] **4.1 ANN for Classification & Regression** (`Deep learning/tersorflow.ipynb`)
-- [ ] **4.2 PyTorch Basics**
-- [ ] **4.3 Neural Networks** (Perceptron, MLP, Backprop, Optimizers)
-- [ ] **4.4 Convolutional Neural Networks (CNNs)**
-- [ ] **4.5 Auto-Encoders**
-- [ ] **4.6 RNN, LSTM, GRU**
-- [ ] **4.7 Image Classification** (ResNet, VGG, MobileNet)
-- [ ] **4.8 Object Detection** (YOLO, SSD, RCNN)
-- [ ] **4.9 Image Segmentation** (UNet, SegNet)
-- [ ] **4.10 Generative Networks** (GAN, VAE, Diffusion)
-- [ ] **4.11 Foundational Models** (Transformers, ViT)
+- [ ] **4.2 PyTorch Basics** (Implementing fundamentals with PyTorch)
+- [ ] **4.3 Neural Networks**
+    - [ ] 4.3a Perceptron
+    - [ ] 4.3b Multilayer Perceptron
+    - [ ] 4.3c Back Propagation (Risk minimization, Gradient Descent, Calculus)
+    - [ ] 4.3d Universal Approximation
+    - [ ] 4.3e Loss Functions (Different types & choosing a loss function)
+    - [ ] 4.3f Training (Batch Size, SGD, Mini batch, second order methods)
+    - [ ] 4.3g Optimization (Optimizers, Regularizers, Batch Normalization, Dropout)
+- [ ] **4.4 Convolutional Neural Network (CNN)**
+    - [ ] 4.4a Models of Vision and CNNs
+    - [ ] 4.4b Training the CNNs
+    - [ ] 4.4c Visualization (Layers of CNNs, GradCam, TSNE Plot)
+    - [ ] 4.4d Transpose Convolution
+- [ ] **4.5 Auto-Encoders** (Auto-Encoder, Convolutional Auto-Encoder, Denoising Auto-Encoder)
+- [ ] **4.6 Sequence Models** (RNN, LSTM, GRU)
+- [ ] **4.7 Image Classification Models** (ResNet, VGG, DenseNet, MobileNet)
+- [ ] **4.8 Object Detection** (RCNN, Fast/Faster/Mask/Grid RCNN, SSD, YOLO)
+- [ ] **4.9 Image Segmentation** (SegNet, UNet)
+- [ ] **4.10 Generative Networks**
+    - [ ] 4.10a VAE (Variational Auto-Encoder)
+    - [ ] 4.10b GAN (Generative Adversarial Networks)
+    - [ ] 4.10c DC GAN, Cycle GAN
+    - [ ] 4.10d Diffusion Models
+- [ ] **4.11 Foundational Models**
+    - [ ] 4.11a Transformer, Attention Models
+    - [ ] 4.11b Vision Transformers (ViT, Swin, DinoV2)
+    - [ ] 4.11c Transformer Models for Segmentation & Detection (Trans UNET, Swin UNET)
 
 ---
 
