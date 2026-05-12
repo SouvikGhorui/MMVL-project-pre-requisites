@@ -44,19 +44,21 @@ Implementation of classical ML algorithms from scratch and using libraries.
 - [x] **Classification on MAGIC Gamma Telescope Data** (`MagicGemmaTelescope.ipynb`)
 - [x] **Mini Project: MNIST** (Augmentation, PCA, HOG, Logistic Regression, Random Forest) (`MiniProject.ipynb`)
 
-### 3. Deep Learning (Future Goals) 🚀
-Planned implementation using **PyTorch**.
+### 3. Deep Learning 🚀
+Implementations using **TensorFlow** and **PyTorch**.
 
-- [ ] **4.0 PyTorch Basics**
-- [ ] **4.1 Neural Networks** (Perceptron, MLP, Backprop, Optimizers)
-- [ ] **4.2 Convolutional Neural Networks (CNNs)**
-- [ ] **4.3 Auto-Encoders**
-- [ ] **4.4 RNN, LSTM, GRU**
-- [ ] **4.5 Image Classification** (ResNet, VGG, MobileNet)
-- [ ] **4.6 Object Detection** (YOLO, SSD, RCNN)
-- [ ] **4.7 Image Segmentation** (UNet, SegNet)
-- [ ] **4.8 Generative Networks** (GAN, VAE, Diffusion)
-- [ ] **4.9 Foundational Models** (Transformers, ViT)
+- [x] **4.0 TensorFlow Basics** (`Deep learning/tersorflow.ipynb`)
+- [x] **4.1 ANN for Classification & Regression** (`Deep learning/tersorflow.ipynb`)
+- [ ] **4.2 PyTorch Basics**
+- [ ] **4.3 Neural Networks** (Perceptron, MLP, Backprop, Optimizers)
+- [ ] **4.4 Convolutional Neural Networks (CNNs)**
+- [ ] **4.5 Auto-Encoders**
+- [ ] **4.6 RNN, LSTM, GRU**
+- [ ] **4.7 Image Classification** (ResNet, VGG, MobileNet)
+- [ ] **4.8 Object Detection** (YOLO, SSD, RCNN)
+- [ ] **4.9 Image Segmentation** (UNet, SegNet)
+- [ ] **4.10 Generative Networks** (GAN, VAE, Diffusion)
+- [ ] **4.11 Foundational Models** (Transformers, ViT)
 
 ---
 
@@ -74,6 +76,7 @@ Planned implementation using **PyTorch**.
 
 ### Deep Learning
 *   [PyTorch Tutorials](https://pytorch.org/tutorials/)
+*   [TensorFlow Documentation](https://www.tensorflow.org/learn)
 *   [CMU Deep Learning Course](https://deeplearning.cs.cmu.edu/F24/index.html)
 *   [Stanford CS231n: Deep Learning for Computer Vision](https://cs231n.stanford.edu/)
 *   [Stanford CS230: Deep Learning](https://cs230.stanford.edu/syllabus/)
@@ -82,5 +85,5 @@ Planned implementation using **PyTorch**.
 
 ## 🛠️ Tech Stack
 *   **Languages:** Python
-*   **Libraries:** OpenCV, Pillow, Scikit-learn, NumPy, Pandas, Matplotlib, PyTorch (Planned)
+*   **Libraries:** OpenCV, Pillow, Scikit-learn, NumPy, Pandas, Matplotlib, TensorFlow, PyTorch (Planned)
 *   **IDE:** VS Code, Jupyter Notebooks
