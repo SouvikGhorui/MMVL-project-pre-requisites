@@ -11,9 +11,9 @@ Focused on spatial domain manipulation and mathematical foundations.
 
 - [x] **2.1 - 2.2 Read & Write Images** (`16-understanding_digital_images.py`, `17-Reading_images_in_python.py`, `Pillow_library.py`)
 - [x] **2.3 Color to Grayscale/BW** (Implemented across various scripts)
-- [ ] **2.4 Horizontal & Vertical Reverse**
-- [ ] **2.5 Image Cropping**
-- [ ] **2.6 Image Negative**
+- [x] **2.4 Horizontal & Vertical Reverse** (`horizontalVartical.py`)
+- [x] **2.5 Image Cropping** (`crop.py`)
+- [x] **2.6 Image Negative** (`inverseImg.py`)
 - [x] **2.7 Filters (Mean, Gaussian, Median)** (`Extras/Karnels_in_Gaussian_blur.py`)
 - [x] **2.8 - 2.11 Edge & Gradient Detection** (`Edge_detection.py`, `Otsu's Algorithm`)
 - [x] **2.12 Image Difference** (`Finding_difference_of_two_images.py`)
