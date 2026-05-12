@@ -9,7 +9,7 @@ This repository is a structured learning path and codebase for my 3rd-semester p
 ### 1. Image Processing and Computer Vision
 Focused on spatial domain manipulation and mathematical foundations.
 
-- [x] **2.1 - 2.2 Read & Write Images** (`17-Reading_images_in_python.py`, `Pillow_library.py`)
+- [x] **2.1 - 2.2 Read & Write Images** (`16-understanding_digital_images.py`, `17-Reading_images_in_python.py`, `Pillow_library.py`)
 - [x] **2.3 Color to Grayscale/BW** (Implemented across various scripts)
 - [ ] **2.4 Horizontal & Vertical Reverse**
 - [ ] **2.5 Image Cropping**
@@ -41,7 +41,8 @@ Implementation of classical ML algorithms from scratch and using libraries.
 - [x] **3.11 - 3.14 Clustering (K-means, K-medoid, Hierarchical, DBScan)** (Various `.ipynb` files)
 - [x] **3.15 HOG Feature Extraction** (`HOG.ipynb`)
 - [x] **3.15 LBP (Local Binary Patterns)** (`LBP.ipynb`)
-- [ ] **Mini Project: MNIST** (Augmentation, PCA, HOG, Logistic Regression)
+- [x] **Classification on MAGIC Gamma Telescope Data** (`MagicGemmaTelescope.ipynb`)
+- [x] **Mini Project: MNIST** (Augmentation, PCA, HOG, Logistic Regression, Random Forest) (`MiniProject.ipynb`)
 
 ### 3. Deep Learning (Future Goals) 🚀
 Planned implementation using **PyTorch**.
