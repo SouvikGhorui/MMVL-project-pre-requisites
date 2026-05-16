@@ -53,7 +53,7 @@ Implementations using **TensorFlow** and **PyTorch**.
 - [ ] **4.3 Neural Networks**
     - [ ] 4.3a Perceptron
     - [ ] 4.3b Multilayer Perceptron
-    - [ ] 4.3c Back Propagation (Risk minimization, Gradient Descent, Calculus)
+    - [x] 4.3c Back Propagation (Risk minimization, Gradient Descent, Calculus) (`Deep learning/Autograd.ipynb`)
     - [ ] 4.3d Universal Approximation
     - [ ] 4.3e Loss Functions (Different types & choosing a loss function)
     - [ ] 4.3f Training (Batch Size, SGD, Mini batch, second order methods)
