@@ -49,7 +49,7 @@ Implementations using **TensorFlow** and **PyTorch**.
 
 - [x] **4.0 TensorFlow Basics** (`Deep learning/tersorflow.ipynb`)
 - [x] **4.1 ANN for Classification & Regression** (`Deep learning/tersorflow.ipynb`)
-- [ ] **4.2 PyTorch Basics** (Implementing fundamentals with PyTorch)
+- [x] **4.2 PyTorch Basics** (`Deep learning/PytorchBasics.ipynb`)
 - [ ] **4.3 Neural Networks**
     - [ ] 4.3a Perceptron
     - [ ] 4.3b Multilayer Perceptron
@@ -103,5 +103,5 @@ Implementations using **TensorFlow** and **PyTorch**.
 
 ## 🛠️ Tech Stack
 *   **Languages:** Python
-*   **Libraries:** OpenCV, Pillow, Scikit-learn, NumPy, Pandas, Matplotlib, TensorFlow, PyTorch (Planned)
+*   **Libraries:** OpenCV, Pillow, Scikit-learn, NumPy, Pandas, Matplotlib, TensorFlow, PyTorch
 *   **IDE:** VS Code, Jupyter Notebooks
