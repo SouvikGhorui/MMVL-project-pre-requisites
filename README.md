@@ -51,7 +51,7 @@ Implementations using **TensorFlow** and **PyTorch**.
 - [x] **4.1 ANN for Classification & Regression** (`Deep learning/tersorflow.ipynb`)
 - [x] **4.2 PyTorch Basics** (`Deep learning/PytorchBasics.ipynb`)
 - [ ] **4.3 Neural Networks**
-    - [ ] 4.3a Perceptron
+    - [x] 4.3a Perceptron (`Deep learning/DataPipeline.ipynb`)
     - [ ] 4.3b Multilayer Perceptron
     - [x] 4.3c Back Propagation (Risk minimization, Gradient Descent, Calculus) (`Deep learning/Autograd.ipynb`)
     - [ ] 4.3d Universal Approximation
