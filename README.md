@@ -52,7 +52,7 @@ Implementations using **TensorFlow** and **PyTorch**.
 - [x] **4.2 PyTorch Basics** (`Deep learning/PytorchBasics.ipynb`)
 - [ ] **4.3 Neural Networks**
     - [x] 4.3a Perceptron (`Deep learning/DataPipeline.ipynb`)
-    - [ ] 4.3b Multilayer Perceptron
+    - [x] 4.3b Multilayer Perceptron (`Deep learning/NN.ipynb`)
     - [x] 4.3c Back Propagation (Risk minimization, Gradient Descent, Calculus) (`Deep learning/Autograd.ipynb`)
     - [ ] 4.3d Universal Approximation
     - [ ] 4.3e Loss Functions (Different types & choosing a loss function)
