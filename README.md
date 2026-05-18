@@ -56,8 +56,8 @@ Implementations using **TensorFlow** and **PyTorch**.
     - [x] 4.3c Back Propagation (Risk minimization, Gradient Descent, Calculus) (`Deep learning/Autograd.ipynb`)
     - [x] 4.3d Universal Approximation (`Deep learning/UAT.ipynb`)
     - [x] 4.3e Loss Functions (BCELoss, MSELoss, SparseCategoricalCrossentropy) (`Autograd.ipynb`, `DataPipeline.ipynb`, `UAT.ipynb`, `tersorflow.ipynb`)
-    - [ ] 4.3f Training (Batch Size, SGD, Mini batch, second order methods)
-    - [ ] 4.3g Optimization (Optimizers, Regularizers, Batch Normalization, Dropout)
+    - [x] 4.3f Training (Batch Size, SGD, Mini batch, second order methods) (`Deep learning/batch.ipynb`)
+    - [x] 4.3g Optimization (Optimizers like Adam, Dropout) (`tersorflow.ipynb`)
 - [ ] **4.4 Convolutional Neural Network (CNN)**
     - [ ] 4.4a Models of Vision and CNNs
     - [ ] 4.4b Training the CNNs
