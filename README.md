@@ -48,10 +48,10 @@ Implementation of classical ML algorithms from scratch and using libraries.
 Implementations using **TensorFlow** and **PyTorch**.
 
 - [x] **4.0 TensorFlow Basics** (`Deep learning/tersorflow.ipynb`)
-- [x] **4.1 ANN for Classification & Regression** (`Deep learning/tersorflow.ipynb`)
+- [x] **4.1 ANN for Classification & Regression** (`Deep learning/tersorflow.ipynb`, `Deep learning/ANN.ipynb`)
 - [x] **4.2 PyTorch Basics** (`Deep learning/PytorchBasics.ipynb`)
 - [x] **4.3 Neural Networks**
-    - [x] 4.3a Perceptron (`Deep learning/DataPipeline.ipynb`)
+    - [x] 4.3a Perceptron (`Deep learning/DataPipeline.ipynb`, `Deep learning/Data.ipynb`)
     - [x] 4.3b Multilayer Perceptron (`Deep learning/NN.ipynb`)
     - [x] 4.3c Back Propagation (Risk minimization, Gradient Descent, Calculus) (`Deep learning/Autograd.ipynb`)
     - [x] 4.3d Universal Approximation (`Deep learning/UAT.ipynb`)
