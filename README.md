@@ -58,9 +58,9 @@ Implementations using **TensorFlow** and **PyTorch**.
     - [x] 4.3e Loss Functions (BCELoss, MSELoss, SparseCategoricalCrossentropy) (`Autograd.ipynb`, `DataPipeline.ipynb`, `UAT.ipynb`, `tersorflow.ipynb`)
     - [x] 4.3f Training (Batch Size, SGD, Mini batch, second order methods) (`Deep learning/batch.ipynb`)
     - [x] 4.3g Optimization (Optimizers like Adam, Dropout) (`tersorflow.ipynb`)
-- [ ] **4.4 Convolutional Neural Network (CNN)**
-    - [ ] 4.4a Models of Vision and CNNs
-    - [ ] 4.4b Training the CNNs
+- [x] **4.4 Convolutional Neural Network (CNN)** (`Deep learning/CNN.ipynb`)
+    - [x] 4.4a Models of Vision and CNNs
+    - [x] 4.4b Training the CNNs
     - [ ] 4.4c Visualization (Layers of CNNs, GradCam, TSNE Plot)
     - [ ] 4.4d Transpose Convolution
 - [ ] **4.5 Auto-Encoders** (Auto-Encoder, Convolutional Auto-Encoder, Denoising Auto-Encoder)
